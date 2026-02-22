@@ -1,4 +1,14 @@
 body {
+  /* Layout */
+  --dg-content-max-width: 800px;
+  --dg-content-font-size: 16px;
+  --dg-sidebar-max-width: 400px;
+
+  /* Colors (Obsidian-compatible) */
   --background-primary: rgb(30, 30, 30);
   --background-secondary: rgb(30, 30, 30);
+
+  --text-normal: #e6e6e6;
+  --text-muted: #a0a0a0;
+  --link-color: #8ab4f8;
 }
