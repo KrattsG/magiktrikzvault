@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/bullwarts-magic-academy/"}
+{"dg-publish":true,"permalink":"/locations/bullwarts-magic-academy/","tags":["gardenEntry"]}
 ---
 
 <div style="
