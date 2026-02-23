@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/necro/","tags":["MagicAffinity/5","ManaStorage/4","Affiliation/KeLaKe-Clan"]}
+{"tags":["MagicAffinity/5","ManaStorage/4","Affiliation/KeLaKe-Clan"],"Profile":"https://i.pinimg.com/1200x/f5/4b/39/f54b3923564f61464eb670f1983efb34.jpg","Location :":null,"page_1":{"title":"Lore","text":"Handler of 1 of the 7 forbidden spell books.\nHe's the sole survivor of the Necromancy experiments made by the [[KeLaKe Clan]].\n"},"page_2":{"title":"Spell Book","text":"[[Summoning]]\n[[Animation]]\n[[Necromancy]]\n"},"dg-publish":true,"permalink":"/characters/necro/","dgPassFrontmatter":true}
 ---
 
 <div style="

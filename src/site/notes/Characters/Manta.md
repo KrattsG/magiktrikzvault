@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/characters/manta/","tags":["Familiar/Water","Familiar/Wind"]}
+{"tags":["Familiar/Water","Familiar/Wind"],"Location :":null,"dg-publish":true,"permalink":"/characters/manta/","dgPassFrontmatter":true}
 ---
 

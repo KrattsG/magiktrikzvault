@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/duche/","tags":["ManaStorage/4","MagicAffinity/4"]}
+{"tags":["ManaStorage/4","MagicAffinity/4"],"Profile":"https://i.pinimg.com/736x/41/cd/8a/41cd8ad4a610ddc0575533fe7387fe9c.jpg","Location :":"[[Bullwarts Magic Academy]]","page_1":{"title":"Lore","text":"Best user of the Flow Style fighting style thanks to her knowledge of the body's mana flow.\nOne of the big five of [[Bullwarts Magic Academy]].\n"},"page_2":{"title":"Spell Book","text":"[[Mana Materialization]]\n[[Mana Concentration]]\n"},"dg-publish":true,"permalink":"/characters/duche/","dgPassFrontmatter":true}
 ---
 
 <div style="

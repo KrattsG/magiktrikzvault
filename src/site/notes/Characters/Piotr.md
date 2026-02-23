@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/piotr/","tags":["ManaStorage/4","MagicAffinity/2"]}
+{"tags":["ManaStorage/4","MagicAffinity/2"],"Profile":"https://i.pinimg.com/736x/77/e8/c4/77e8c4653233f5779c90ea9f973e3462.jpg","Location :":["[[Bullwarts Magic Academy]]"],"page_1":{"title":"Lore","text":"Piotr is a rebellious 16-year-old who’s been expelled from multiple schools for his wild behavior. At age 12, he discovered his only magical ability: [[Embedded Levitation]]. While most saw this as a weak and tiring skill, Piotr refused to accept that. Instead, he turned broom flying into an art form, creating tricks and maneuvers inspired by skateboarding.\nAfter too many expulsions, his parents send him to [[Bullwarts Magic Academy]]. They see it as his last chance. But Piotr sees it as the perfect place to prove that his unique flying style isn’t just real magic, it’s the best kind.\n"},"page_2":{"title":"Spell Book","text":"[[Embedded Levitation]]\n"},"dg-publish":true,"permalink":"/characters/piotr/","dgPassFrontmatter":true}
 ---
 
 <div style="

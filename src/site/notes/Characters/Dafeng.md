@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/dafeng/","tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"]}
+{"tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"],"Profile":"https://i.pinimg.com/736x/70/61/e5/7061e5ae06977fac46998fcf407cce8d.jpg","Creator":null,"Location :":"[[Bullwarts Magic Academy]]","page_1":{"title":"Lore","text":""},"page_2":{"title":"Spell Book","text":""},"dg-publish":true,"permalink":"/characters/dafeng/","dgPassFrontmatter":true}
 ---
 
 <div style="

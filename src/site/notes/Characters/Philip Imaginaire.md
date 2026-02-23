@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/philip-imaginaire/","tags":["ManaStorage/1","MagicAffinity/1","Gender/Male"]}
+{"tags":["ManaStorage/1","MagicAffinity/1","Gender/Male"],"Profile":"https://i.pinimg.com/736x/84/60/68/8460687b729e5d1540ce86de6a2b8b5b.jpg","Creator":"Kratts","Location :":["[[Bullwarts Magic Academy#Film Club]]"],"page_1":{"title":"Lore","text":"While he was a Kid he liked cinema and he learned how to modify his body to become a character in a film, moving in frames per second, the shorter the frames per second the faster he is. \n"},"page_2":{"title":"Spell Book","text":""},"Relations :":"[[Drew Imaginaire]]","dg-publish":true,"permalink":"/characters/philip-imaginaire/","dgPassFrontmatter":true}
 ---
 
 <div style="

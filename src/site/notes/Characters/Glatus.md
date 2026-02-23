@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/glatus/","tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"]}
+{"tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"],"Profile":"https://i.pinimg.com/1200x/b1/2f/3b/b12f3b652b008ea9120e60302ef6a8dc.jpg","Creator":null,"Location :":null,"page_1":{"title":"Lore","text":""},"page_2":{"title":"Spell Book","text":""},"dg-publish":true,"permalink":"/characters/glatus/","dgPassFrontmatter":true}
 ---
 
 <div style="

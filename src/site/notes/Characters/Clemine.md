@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/clemine/","tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"]}
+{"tags":["ManaStorage/1","MagicAffinity/3","Gender/Female"],"Profile":"https://i.pinimg.com/736x/e6/03/79/e6037917f3d80461d765f309fb0ce014.jpg","Creator":"Fonks","Location :":"[[Bullwarts Magic Academy]]","page_1":{"title":"Lore","text":"A music obsessed punk who wields a shotgun all the time. She uses small, almost imperceptible barriers to redirect the direction of her pellets. Instead of focusing on creating ammunition, she decides to focus on precision, though it's not derived from strategy, only laziness and lack of effort.\n"},"page_2":{"title":"Spell Book","text":"[[Mana Materialization]]\n"},"dg-publish":true,"permalink":"/characters/clemine/","dgPassFrontmatter":true}
 ---
 
 <div style="

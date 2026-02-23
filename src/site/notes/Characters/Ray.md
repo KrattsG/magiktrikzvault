@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ray/","tags":["MagicAffinity/2","ManaStorage/4"]}
+{"tags":["MagicAffinity/2","ManaStorage/4"],"Profile":"https://i.pinimg.com/736x/90/18/f7/9018f706eaf7e25cd6960cca7f16ccea.jpg","Location :":null,"page_1":{"title":"Lore","text":"Fisher Witch\n"},"page_2":{"title":"Spell Book","text":"[[Summoning]]\n[[Ability Exchange]]\n[[Mana Materialization]]\n"},"dg-publish":true,"permalink":"/characters/ray/","dgPassFrontmatter":true}
 ---
 
 <div style="

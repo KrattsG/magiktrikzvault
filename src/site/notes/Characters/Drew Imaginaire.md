@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/drew-imaginaire/","tags":["ManaStorage/1","MagicAffinity/1","Gender/Male"]}
+{"tags":["ManaStorage/1","MagicAffinity/1","Gender/Male"],"Profile":"https://i.pinimg.com/736x/5c/5a/6c/5c5a6c7982dedde380dafe230e4794a2.jpg","Creator":"Kratts","Location :":["[[Bullwarts Magic Academy#Art Club]]"],"page_1":{"title":"Lore","text":"While he was a Kid he entered books through his magic and lived the life as the Main Character, he grew his magical power by learning how to draw creating new scenarios and continuations for his second life inside books.\nHis spells however allows him to enter any type of graphical world portrayed in a surface. \n"},"page_2":{"title":"Spell Book","text":""},"Relations :":"[[Philip Imaginaire|Brother]]","dg-publish":true,"permalink":"/characters/drew-imaginaire/","dgPassFrontmatter":true}
 ---
 
 <div style="
