@@ -1,7 +1,12 @@
-:root,
-body {
+.theme-dark {
   --background-primary: rgb(30, 30, 30);
   --background-secondary: rgb(30, 30, 30);
+  --background-modifier-border: var(--color-base-100);
+  --background-modifier-border-hover: var(--color-base-35);
+  --background-modifier-border-focus: var(--color-base-110);
+}
 
+:root,
+body {
   scrollbar-width: auto;
 }
